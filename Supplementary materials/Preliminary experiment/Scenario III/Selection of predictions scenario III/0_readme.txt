@@ -1,0 +1,5 @@
+Ten folder zawiera 48 przewidywań sieci scenariusza III. Literą "a" oznaczono obraz wejściowy. Literą "b" oznaczono przewidywania sieci dla każdego z pikseli osobno, przed zastosowaniem progu aktywacji. Literą "c" oznaczono zakodowane kolorystycznie przewidywania sieci dla każdego piksela po zastosowaniu progu aktywacji (czerwony oznacza piksel biały, niebieski oznacza piksel czerny) nałożone na obraz wejściowy.
+Tomasz Dzieduszyński 2024.
+
+This folder contains 48 predictions from the network for scenario III. The letter 'a' indicates the input image. The letter 'b' denotes the network's predictions for each pixel individually, before applying the activation threshold. The letter 'c' represents the color-coded predictions from the network for each pixel after applying the activation threshold (red indicates a white pixel, blue indicates a black pixel) overlayed on the input image.
+Tomasz Dzieduszyński 2024.

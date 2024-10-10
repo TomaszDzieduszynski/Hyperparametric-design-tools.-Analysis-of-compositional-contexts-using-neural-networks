@@ -1,0 +1,5 @@
+Ten folder zawiera 46 obrazów przewidywania sieci neuronowej w scenariuszu II. Literą "a" oznaczono obrazy wejściowe. Literą "b" oznaczono przewidywania sieci przed zastosowaniem progu aktywacji. Literą "c" oznaczono przewidywania sieci po zastosowaniu progu aktywacji. Przewidywania sieci znajdują się w czerwonej ramce, dookoła przedstawione są widoczne dla sieci konteksty kompozycyjnye.
+Tomasz Dzieduszyński 2024.
+
+This folder contains 46 images of predictions from the neural network in scenario II. The letter 'a' indicates the input images. The letter 'b' denotes the predictions from the network before applying the activation threshold. The letter 'c' represents the predictions from the network after applying the activation threshold. The network's predictions are highlighted in a red box, with the visible compositional contexts surrounding them.
+Tomasz Dzieduszyński 2024.

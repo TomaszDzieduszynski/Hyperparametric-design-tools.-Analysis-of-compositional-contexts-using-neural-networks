@@ -1,0 +1,5 @@
+Ten folder zawiera 56 obrazów przewidywań sieci dla fragmentów zabudowy Warszawy przedstawionej w postaci schwarzplanu. Literą "a" oznaczone są przewidywania sieci przed zastosowaniem progu aktywacji, literą "b" oznaczone są przewidywania po przepuszczeniu obrazów przez próg aktywacji. W czerwonej ramce przewidywania sieci neuronowek wytrenowanej na zabudowie śródmiejskiej Warszawy. Dookoła konteksty przestrzenne fragmentów zabudowy innych dzielnic Warszawy.
+Tomasz Dzieduszyński 2024.
+
+This folder contains 56 prediction images from the network for fragments of Warsaw's built environment presented in the form of a schwarzplan. The letter 'a' indicates the network's predictions before applying the activation threshold, and the letter 'b' denotes the predictions after passing the images through the activation threshold. The predictions from the neural network trained on the urban development of central Warsaw are highlighted in a red box. Surrounding them are the spatial contexts of built fragments from other districts of Warsaw.
+Tomasz Dzieduszyński 2024.
